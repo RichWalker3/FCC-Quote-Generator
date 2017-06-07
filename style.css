@@ -1,0 +1,48 @@
+html,body{
+    height: 100%;
+    color: #7B967F
+}
+
+/*h1{
+    padding-bottom: 20%;
+}*/
+
+.quote-wrapper{
+    border: 5px solid ;
+    border-radius: 10px;
+    padding-top: 2%;
+    background-color:#546567;
+    margin-top: 30%
+}
+
+body {
+    background-image: url("http://wallpapercave.com/wp/bV3WiYh.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #546567;
+    background-size: 50%;
+   
+}
+    
+.background{
+    background-image: url("http://wallpapercave.com/wp/73RHDo6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 100%
+}
+
+.top-text{
+    /*display: inline;*/
+    background-color: #546567;
+    border: 5px solid ;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    padding-right: 10px;
+}
+
+.top-text-container{
+    display: flex;
+    justify-content: center;
+}
